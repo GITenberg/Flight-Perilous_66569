@@ -1,0 +1,34 @@
+_repo: Flight-Perilous_66569
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Terry, W. E.
+    aliases:
+    - Terry, Willis E.
+    - Terry, Bill
+    birthdate: 1921
+    deathdate: 1992
+    gutenberg_agent_id: '34265'
+    url: http://www.gutenberg.org/2009/agents/34265
+creator:
+  author:
+    agent_name: Noll, Ray C.
+    alias: Noll, R. C.
+    gutenberg_agent_id: '32853'
+    url: http://www.gutenberg.org/2009/agents/32853
+description: ''
+gutenberg_issued: '2021-10-19'
+identifiers:
+  gutenberg: '66569'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Space flight to Mars -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Space ships -- Fiction'
+- GITenberg
+title: Flight Perilous!
+url: http://www.gutenberg.org/ebooks/66569
